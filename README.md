@@ -1,3 +1,4 @@
+![logo](https://github.com/RiyaChaturvedi37/RiyaChaturvedi37/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Riya Chaturvedi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
